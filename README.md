@@ -2,7 +2,7 @@
 - 😎 I’m Pankaj
 - 🎒 Working in Maruti Suzuki as digital & offline marketing!
 - 👀 Data analyst!
-- ✌️Tools: SQL,Pyhton,statistics,ML,NLP,DL,PowerBI
+- ✌️Tools: SQL,Python,statistics,ML,NLP,DL,PowerBI
 - 🌱 currently learning PG in Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on exciting projects that align with my interests and skills.
 - 📫 How to reach me Here is my Email :pankaj.tilwankar90@gmail.com
