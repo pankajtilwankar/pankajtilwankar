@@ -1,6 +1,6 @@
 - 👋 Hi there,
 - 😎 I’m Pankaj
-- 🎒 Working in Maruti Suzuki as digital & offline marketing!
+- 🎒 Working in Maruti Suzuki as digital marketing!
 - 👀 Data analyst!
 - ✌️Tools: SQL,Python,statistics,ML,NLP,DL,PowerBI
 - 🌱 currently learning PG in Data Science and Machine Learning
