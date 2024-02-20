@@ -3,6 +3,6 @@
 - 🎒 Working in Maruti Suzuki!
 - 👀 Data analyst!
 - ✌️Tools: SQL,Python,statistics,ML,NLP,DL,PowerBI
-- 🌱 currently learning PG in Data Science and Machine Learning
+- 🌱 PG in Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on exciting projects that align with my interests and skills.
 - 📫 How to reach me Here is my Email :pankaj.tilwankar90@gmail.com
